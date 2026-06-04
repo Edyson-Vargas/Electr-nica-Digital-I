@@ -1,0 +1,25 @@
+[*]
+[*] GTKWave Analyzer v3.3.117 (w)1999-2023 BSI
+[*] Thu Jun  4 18:13:22 2026
+[*]
+[dumpfile] "/home/vargas/Electr-nica-Digital-I/iverilog_divi/comp_sub_TB.vcd"
+[dumpfile_mtime] "Thu Jun  4 18:12:35 2026"
+[dumpfile_size] 502
+[savefile] "/home/vargas/Electr-nica-Digital-I/iverilog_divi/comp_sub_TB_sim.gtkw"
+[timestart] 3160
+[size] 1000 600
+[pos] -1 -1
+*-13.000000 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] comp_sub_TB.
+[sst_width] 216
+[signals_width] 158
+[sst_expanded] 1
+[sst_vpaned_height] 150
+@22
+comp_sub_TB.utt.A[15:0]
+comp_sub_TB.utt.B[15:0]
+comp_sub_TB.utt.SUB_RESULT[15:0]
+@28
+comp_sub_TB.utt.Z_A
+[pattern_trace] 1
+[pattern_trace] 0

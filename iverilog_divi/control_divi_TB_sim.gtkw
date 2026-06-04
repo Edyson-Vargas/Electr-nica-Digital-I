@@ -1,0 +1,44 @@
+[*]
+[*] GTKWave Analyzer v3.3.117 (w)1999-2023 BSI
+[*] Thu Jun  4 19:15:32 2026
+[*]
+[dumpfile] "/home/vargas/Electr-nica-Digital-I/iverilog_divi/control_divi_TB.vcd"
+[dumpfile_mtime] "Thu Jun  4 19:14:27 2026"
+[dumpfile_size] 1272
+[savefile] "/home/vargas/Electr-nica-Digital-I/iverilog_divi/control_divi_TB_sim.gtkw"
+[timestart] 57400
+[size] 1300 699
+[pos] -51 -51
+*-15.000000 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] control_divi_TB.
+[sst_width] 216
+[signals_width] 150
+[sst_expanded] 1
+[sst_vpaned_height] 185
+@28
+control_divi_TB.utt.ADD_C
+@420
+control_divi_TB.utt.CHECK
+control_divi_TB.utt.CHECK_END
+control_divi_TB.utt.END_STATE
+@28
+control_divi_TB.utt.LD
+control_divi_TB.utt.SH
+@420
+control_divi_TB.utt.SHIFT
+control_divi_TB.utt.START
+@28
+control_divi_TB.utt.SUB
+@420
+control_divi_TB.utt.SUBTRACT
+@28
+control_divi_TB.utt.Z_A
+control_divi_TB.utt.Z_B
+control_divi_TB.utt.clk
+control_divi_TB.utt.done
+control_divi_TB.utt.init
+control_divi_TB.utt.next_state[2:0]
+control_divi_TB.utt.rst
+control_divi_TB.utt.state[2:0]
+[pattern_trace] 1
+[pattern_trace] 0
